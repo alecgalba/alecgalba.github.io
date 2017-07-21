@@ -5,7 +5,7 @@ date:   2017-07-16 20:21:22 -0400
 ---
 
 
-Have you ever thought about switching your career to do something you are deeply passionate about?
+Have you ever considered switching your career to do something you are deeply passionate about?
 
 If that dream career switch required you to learn a skill that you had no prior experience in, would you still do it?
 
