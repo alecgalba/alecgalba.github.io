@@ -1,0 +1,21 @@
+# Site settings
+title: Alec Alba's Journey Through Web Development
+header-img: img/home-bg.png
+email: alecgalba@gmail.com
+copyright_name: alecgalba
+description: > # this means to ignore newlines until "baseurl:"
+  Me Talking Through My Own Thought Process For You
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  alecgalba
+learn_profile: alecgalba
+email_username: alecgalba@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
