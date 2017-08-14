@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "'Fixture Schedule' CLI Gem Portfolio Project"
-date:   2017-08-14 21:44:04 +0000
+date:   2017-08-14 17:44:05 -0400
 ---
 
 
