@@ -71,5 +71,4 @@ To wrap this up, I am extremley proud of the gem that I created. I think that th
 
 I look forward to the instructor session where I can learn even more from my mistakes and improve this gem to make it as best as it can possibly be.
 
-Until next time,
-AA
+Onwards!
