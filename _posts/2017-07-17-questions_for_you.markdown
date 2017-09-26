@@ -30,6 +30,4 @@ As of the writing of this post I am 14 days into the program and have completed 
 
 I hope you have enjoyed my first post and I encourage any one who reads this to ponder these very same questions if they are unsatified with their career trajectory. You might be as suprised with your own answer.
 
-Until next time,
-
-A.G.A.
+Onwards!
