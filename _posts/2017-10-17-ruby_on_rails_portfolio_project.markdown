@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Ruby on Rails Portfolio Project"
-date:       2017-10-17 16:21:55 +0000
+date:       2017-10-17 12:21:56 -0400
 permalink:  ruby_on_rails_portfolio_project
 ---
 
@@ -142,6 +142,8 @@ Finally, this project was extremely challenging and was the first project that I
 
 ### What can I improve?
 Without a doubt the aspect that I want to improve on the most is creating a functioning `has_many, through` association that displays the proper information the way I had in mind. One lasting issue that I had with the project was the display of the fixtures within the index, show, and team show pages. Upon submitting this project, that is the primary issue that I would like to work on in the future.
+
+Additionally I would like to add the ability for fixtures to be inversely related. That means that while one team_id is associated to the fixture as the "home team", I would like to add the ability for the fixture to be inversely applied to the "away team" or "opponent" attribute of the fixture in order for it to display on the show pages of the specific teams.
 
 ### Conclusion
 This Rails project allowed me to improve upon my Sinatra portfolio project in order to create a fully functioning soccer league database. The next evolution of this application will have, primarily, properly displayed associated data through the join table. An additional function could perhaps include an articles section that allows for users to post related articles or news blurbs about the application. Perhaps I could include admin privileges that moderate the creation of leagues and creates the fixtures. 
