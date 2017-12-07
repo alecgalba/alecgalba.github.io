@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "This Is Not The Last Time You Will Hear About ```this```"
-date:       2017-12-07 16:09:14 +0000
+title:      "This Is Not The Last Time You Will Hear About *This*"
+date:       2017-12-07 11:09:15 -0500
 permalink:  this_is_not_the_last_time_you_will_hear_about_this
 ---
 
