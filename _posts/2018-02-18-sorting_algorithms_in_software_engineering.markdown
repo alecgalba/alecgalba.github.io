@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sorting Algorithms in Software Engineering"
-date:       2018-02-18 23:26:43 +0000
+date:       2018-02-18 18:26:44 -0500
 permalink:  sorting_algorithms_in_software_engineering
 ---
 
@@ -67,7 +67,7 @@ Can you deduce what the Big-O cost is for the selectionSort() function above? Si
 
 Knowing that we have to use both of these functions in order to fulfill our desired outcome, we can see that the Big-O cost of selection sorting an unsorted array is n^2. But is there another way?
 
-Tune in next week when we discuss the merge sort method and how it is relevant in software engineering. For now take a look through these links to gather more information on the insertion sort method. If you can become familiar with this implementation and how to verbally walk yourself through the steps to solve this problem then you can pat yourself on the back. If not, no worries! Just re-read this blog post and look through the links and you should get it in no time!
+Tune in next week when we discuss the merge sort method and how it is relevant in software engineering. For now take a look through these links to gather more information on the selection sort method. If you can become familiar with this implementation and how to verbally walk yourself through the steps to solve this problem then you can pat yourself on the back. If not, no worries! Just re-read this blog post and look through the links and you should get it in no time!
 
 Onwards!
 
