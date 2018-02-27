@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CSS Media Queries"
-date:       2018-02-27 19:20:24 +0000
+date:       2018-02-27 14:20:25 -0500
 permalink:  css_media_queries
 ---
 
@@ -73,6 +73,10 @@ You can think of comma-separated lists for media queries as a logical “or” o
 While I have only brushed the surface of the use of media queries, I think that this is good footing to stand on. If this material was as new for you as it was for me, I hope you were able to learn something productive to take with you. As always I will link some more resources for you to go down the rabbit hole of knowledge.
 
 Onwards!
+
+1. [W3School CSS @media Rule](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp)
+2. [CSSMediaQueries.com](http://cssmediaqueries.com/)
+3. [Learn Curriculum CSS Media Queries](https://docs.google.com/presentation/d/1j_i5pGPB5lHbgr4fpdUDheRBv2kAeOk_yhfd1Uc2f3s/edit#slide=id.p21)
 
 
 
