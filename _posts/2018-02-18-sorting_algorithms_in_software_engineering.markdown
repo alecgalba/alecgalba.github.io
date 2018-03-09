@@ -1,11 +1,10 @@
 ---
 layout: post
-title:      "Sorting Algorithms in Software Engineering"
+title:      "Sorting Algorithms in Software Engineering Part 1"
 date:       2018-02-18 18:26:44 -0500
 permalink:  sorting_algorithms_in_software_engineering
 ---
 
-# Part 1
 
 ### Selection Sort
 
