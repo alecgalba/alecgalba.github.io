@@ -1,12 +1,9 @@
 ---
 layout: post
-title:      "Sorting Algorithms in Software Engineering"
-date:       2018-02-23 20:11:16 +0000
+title:      "Sorting Algorithms in Software Engineering Part 2"
+date:       2018-02-23 15:11:17 -0500
 permalink:  sorting_algorithms_in_software_engineering
 ---
-
-
-# Part 2
 
 ### Merge Sort
 
